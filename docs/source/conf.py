@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'ERC-100'
-copyright = '2024, John Doe'
-author = 'John Doe'
+copyright = '2024, ERC-100 Foundation'
+author = 'ERC-100 Foundation'
 
 release = '0.1'
 version = '0.1.0'
