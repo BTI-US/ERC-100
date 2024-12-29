@@ -27,6 +27,7 @@ Contents
    faq
    limitation
    further-reading
+   ERC-100 Website <https://bti-us.github.io/ERC100-Webpage/>
 
 .. toctree::
    :maxdepth: 3
