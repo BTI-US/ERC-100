@@ -1,22 +1,24 @@
-Welcome to Lumache's documentation!
+Welcome to ERC-100's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The **ERC-100** token standard builds upon the **ERC-20** standard, extending its capabilities for liquidity pool interactions and dynamic price adjustments.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to implement and interact with the ERC-100 token standard.
 
 .. note::
 
-   This project is under active development.
+   This standard is under active development.
 
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
    usage
    api
+   faq
+   limitation
+   further-reading

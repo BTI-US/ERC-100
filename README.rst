@@ -1,9 +1,42 @@
-Template for the Read the Docs tutorial
-=======================================
+ERC-100 Token Standard
+=======================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+ERC-100 is an extension of the ERC-20 token standard, designed to enable dynamic price adjustments and advanced liquidity pool interactions.
 
-Read the tutorial here:
+Key Features
+------------
 
-https://docs.readthedocs.io/en/stable/tutorial/
+- **Dynamic Pricing**: Token prices adjust dynamically during transactions.
+- **Liquidity Pool Integration**: Built-in support for liquidity pool interactions.
+- **Custom Logic Support**: Developers can add custom behaviors based on token price.
+
+Documentation
+-------------
+
+The full documentation is available at: https://erc-100.readthedocs.io/
+
+Contents
+--------
+
+- :doc:`usage`
+- :doc:`api`
+- :doc:`faq`
+- :doc:`limitations`
+- :doc:`further-reading`
+
+Getting Started
+---------------
+
+1. Familiarize yourself with the ERC-20 token standard.
+2. Implement the ERC-100 standard in your smart contract.
+3. Leverage the advanced features to interact with liquidity pools effectively.
+
+Contributing
+------------
+
+Contributions are welcome! Please follow the guidelines in `CONTRIBUTING.md`.
+
+License
+-------
+
+This project is licensed under the MIT License.
