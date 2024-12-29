@@ -14,11 +14,23 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents
+   :maxdepth: 3
+   :caption: Getting Started
 
    usage
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Reference
+
    api
    faq
    limitation
    further-reading
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Maintenance
+
+   changelog
+   contributing

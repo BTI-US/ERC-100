@@ -23,6 +23,7 @@ Contents
 - :doc:`faq`
 - :doc:`limitations`
 - :doc:`further-reading`
+- :doc:`changelog`
 
 Getting Started
 ---------------
@@ -34,7 +35,7 @@ Getting Started
 Contributing
 ------------
 
-Contributions are welcome! Please follow the guidelines in `CONTRIBUTING.md`.
+Contributions are welcome! Please follow the guidelines in :doc:`contributing`.
 
 License
 -------

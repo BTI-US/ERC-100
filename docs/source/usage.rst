@@ -81,11 +81,16 @@ Interacting with Liquidity Pools
 
 ERC-100 introduces advanced liquidity pool interactions. You can use the following methods to interact with pools:
 
-- **getSwapActionFromUpdate**: Determines the swap action type (buy, sell, add/remove liquidity) based on the addresses involved.
-- **getTokenPrice**: Fetches the current price of the token by querying the reserves of the liquidity pool.
-- **getNewPriceAfterBuy**: Calculates the new token price after a buy operation based on the amount of tokens being bought.
-- **getNewPriceAfterSell**: Calculates the new token price after a sell operation based on the amount of tokens being sold.
-- **getReserves**: Retrieves the reserves of the token and WETH in the liquidity pool.
+- **getSwapActionFromUpdate**:
+  Determines the swap action type (buy, sell, add/remove liquidity) based on the addresses involved.
+- **getTokenPrice**:
+  Fetches the current price of the token by querying the reserves of the liquidity pool.
+- **getNewPriceAfterBuy**:
+  Calculates the new token price after a buy operation based on the amount of tokens being bought.
+- **getNewPriceAfterSell**:
+  Calculates the new token price after a sell operation based on the amount of tokens being sold.
+- **getReserves**:
+  Retrieves the reserves of the token and WETH in the liquidity pool.
 
 Example: Fetching the Token Price
 ----------------------------------

@@ -139,7 +139,7 @@ Methods
 Events
 ------
 
-.. event:: PriceUpdated(pool, newPrice)
+.. function:: PriceUpdated(pool, newPrice)
 
    Emitted when the token price is updated.
 
@@ -149,7 +149,7 @@ Events
    - `pool` (`address`): The address of the liquidity pool where the price update occurred.
    - `newPrice` (`uint256`): The new price of the token after the update.
 
-.. event:: ActionDetermined(from, to, action)
+.. function:: ActionDetermined(from, to, action)
 
    Emitted when a swap action is determined.
 
